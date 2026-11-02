@@ -1,6 +1,8 @@
 # PROJECT ECHO: Black Signal — Reborn
 
-A standalone offline-capable 2D action-platformer prototype. Extract the archive and open `index.html` in Chrome or Edge. No Python, engine installation, network access, or external assets are required.
+A standalone offline-capable 2D action-platformer prototype. 
+
+can be played at https://anikethatwar-1.github.io/Project-Echo---Reborn-Game/
 
 ## Controls
 - A/D or arrow keys: move
